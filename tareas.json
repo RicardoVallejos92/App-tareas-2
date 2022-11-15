@@ -1,0 +1,34 @@
+[
+    {
+        "titulo": "Comprar placa madre",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Buscar microprocesador compatible",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Colocar memoria ram ",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Elegir disco rigido o solido",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Averiguar fuente de alimentacion",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Sobra efectivo,ver placa de video ",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Una nueva tarea",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Desarrollar la app de la concesionaria",
+        "estado": "pendiente"
+    }
+]
